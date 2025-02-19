@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.logo-con{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.lbl-logo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    font-size: 24px;
+}
+
+.lbl-2{
+
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: -3%;
+    font-size: 18px;
+
+}
+
+
+.lbl-3{
+
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: -1%;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.lbl-4{
+
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    font-size: 16px;
+    font-weight: 500;
+
+}
